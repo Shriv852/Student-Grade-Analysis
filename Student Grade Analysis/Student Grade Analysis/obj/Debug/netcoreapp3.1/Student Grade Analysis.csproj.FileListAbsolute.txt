@@ -1,0 +1,13 @@
+C:\Users\shriv\source\repos\Student Grade Analysis\Student Grade Analysis\bin\Debug\netcoreapp3.1\Student Grade Analysis.exe
+C:\Users\shriv\source\repos\Student Grade Analysis\Student Grade Analysis\bin\Debug\netcoreapp3.1\Student Grade Analysis.deps.json
+C:\Users\shriv\source\repos\Student Grade Analysis\Student Grade Analysis\bin\Debug\netcoreapp3.1\Student Grade Analysis.runtimeconfig.json
+C:\Users\shriv\source\repos\Student Grade Analysis\Student Grade Analysis\bin\Debug\netcoreapp3.1\Student Grade Analysis.runtimeconfig.dev.json
+C:\Users\shriv\source\repos\Student Grade Analysis\Student Grade Analysis\bin\Debug\netcoreapp3.1\Student Grade Analysis.dll
+C:\Users\shriv\source\repos\Student Grade Analysis\Student Grade Analysis\bin\Debug\netcoreapp3.1\Student Grade Analysis.pdb
+C:\Users\shriv\source\repos\Student Grade Analysis\Student Grade Analysis\obj\Debug\netcoreapp3.1\Student Grade Analysis.csprojAssemblyReference.cache
+C:\Users\shriv\source\repos\Student Grade Analysis\Student Grade Analysis\obj\Debug\netcoreapp3.1\Student Grade Analysis.AssemblyInfoInputs.cache
+C:\Users\shriv\source\repos\Student Grade Analysis\Student Grade Analysis\obj\Debug\netcoreapp3.1\Student Grade Analysis.AssemblyInfo.cs
+C:\Users\shriv\source\repos\Student Grade Analysis\Student Grade Analysis\obj\Debug\netcoreapp3.1\Student Grade Analysis.csproj.CoreCompileInputs.cache
+C:\Users\shriv\source\repos\Student Grade Analysis\Student Grade Analysis\obj\Debug\netcoreapp3.1\Student Grade Analysis.dll
+C:\Users\shriv\source\repos\Student Grade Analysis\Student Grade Analysis\obj\Debug\netcoreapp3.1\Student Grade Analysis.pdb
+C:\Users\shriv\source\repos\Student Grade Analysis\Student Grade Analysis\obj\Debug\netcoreapp3.1\Student Grade Analysis.genruntimeconfig.cache

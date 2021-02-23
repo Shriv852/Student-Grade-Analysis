@@ -36,7 +36,7 @@ namespace Student_Grade_Analysis
                     }
                     Console.WriteLine("----------------------------------");
                 }
-                if (inputNum == 2)
+                if (inputNum == 2) //Randomize Grades
                 {
                     for (int i = 0; i < Grades.Count; i++)
                     {
@@ -57,15 +57,12 @@ namespace Student_Grade_Analysis
                     var honours = Grades.Count(n => n >= 80);
                     Console.WriteLine("Number of Honours: " + honours);
                 }
-                if (inputNum == 5)
+                if (inputNum == 5) //Remove Fail Grades
                 {
-                    for (int i = 0; i < Grades.Count; i++)
-                    {
-                        Grades.RemoveAll(i => i < 50);
-                    }
+                    Grades.RemoveAll(i => i < 50);
                     Console.WriteLine("Fail Grades Have been Removed!");
                 }
-                if (inputNum == 6)
+                if (inputNum == 6) //Exit
                 {
                     Console.WriteLine("Goodbye!");
                     loop = false;
